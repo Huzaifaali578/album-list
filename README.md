@@ -1,6 +1,8 @@
 # Album List Application
 
 This project is a React-based application that allows users to manage albums with the following key features:
+- **Hosted Link**: https://album-list-4trv.onrender.com/
+- **YouTube Link**: 
 
 - **List Albums**: View a list of albums fetched from the JSONPlaceholder API.
 - **Add Album**: Add a new album to the list.
